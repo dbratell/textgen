@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4" relativePaths="false">
+  <component name="LvcsConfiguration">
+    <option name="LOCAL_VCS_ENABLED" value="true" />
+    <option name="LOCAL_VCS_PURGING_PERIOD" value="259200000" />
+    <option name="MARK_EXTERNAL_CHANGES_AS_UP_TO_DATE" value="true" />
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://" />
+    <output-test url="file://" />
+    <content url="file://$MODULE_DIR$/src">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="java version &quot;1.4.1&quot;" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="ModuleRootManager" />
+</module>
+
